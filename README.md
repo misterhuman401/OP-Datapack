@@ -13,5 +13,8 @@ Gives you a handful of useful effects if put in offhand/mainhand.
 ### janWekiFLY
 If you put it in your offhand/mainhand, a platform of scaffolding will constantly be teleported below you. Hold shift to go down, jump to go up. Recommended with janWekiSUPER.
 
-### janWekiSHEET
+### janWekiMISSILE
 If put in your offhand, a sheet of evenly spaced TNT will rain down above you. The amount of TNT is directly proportional to the time you keep it in your offhand, so be careful! One second should be enough to destroy a humble cottage.
+
+### janWekiKILLER
+If put in offhand, a strand of TNT will appear at the nearest player that is not you.
