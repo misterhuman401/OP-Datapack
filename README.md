@@ -17,7 +17,7 @@ If you put it in your offhand/mainhand, a platform of scaffolding will constantl
 If put in your offhand, a sheet of evenly spaced TNT will rain down above you. The amount of TNT is directly proportional to the time you keep it in your offhand, so be careful! One second should be enough to destroy a humble cottage.
 
 ### janWekiKILLER
-If put in offhand, a strand of TNT will appear at the nearest player that is not you.
+If put in offhand, a strand of TNT will appear at the nearest entity that is not you.
 
 ### janWekiWARDEN
 Spawns OP wardens when put in offhand.
