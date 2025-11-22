@@ -18,3 +18,9 @@ If put in your offhand, a sheet of evenly spaced TNT will rain down above you. T
 
 ### janWekiKILLER
 If put in offhand, a strand of TNT will appear at the nearest player that is not you.
+
+### janWekiWARDEN
+Spawns OP wardens.
+
+### janWekiZOMBIE
+Spawns OP zombies.
