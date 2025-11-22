@@ -24,3 +24,6 @@ Spawns OP wardens when put in offhand.
 
 ### janWekiZOMBIE
 Spawns OP zombies when put in offhand.
+
+### janWekiKILLSUPER
+Kills all supermobs when in offhand.
