@@ -12,6 +12,7 @@ Gives you a handful of useful effects if put in offhand/mainhand. You become pre
 
 ### janWekiFLY
 If you put it in your offhand/mainhand, a platform of scaffolding will constantly be teleported below you. Hold shift to go down, jump to go up. Recommended with janWekiSUPER.
+> NOTE: Remember to pick up your ride when you're done, and also do not try to fly in someone's base: it may damage their floor!
 
 ### janWekiMISSILE
 If put in your offhand, a sheet of evenly spaced TNT will rain down above you. The amount of TNT is directly proportional to the time you keep it in your offhand, so be careful! One second should be enough to destroy a humble cottage.
