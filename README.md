@@ -1,7 +1,7 @@
 # OP Datapack
 ## _tan jan Weki_
 
-Hello! Welcome to the OP Datapack (tan jan Weki). The datapack comes with several OP items. To obtain them, simply name an armor stand ``janWekiLOOT``.
+Hello! Welcome to the OP Datapack (tan jan Weki). The datapack comes with several OP items. To obtain them, simply name an armor stand ``janWekiLOOT``. Caution: this will replace your inventory with OP items. I suggest you put everything you have in a chest first.
 
 Once you have your shulker box, you can start messing around with your items.
 
