@@ -8,7 +8,7 @@ Once you have your shulker box, you can start messing around with your items.
 > WARNING: ONLY EXPERIMENT IN IMPORTANT AREAS IF YOU KNOW WHAT YOU'RE DOING. OTHERWISE, GO TO SOME ISLAND THOULSANDS OF BLOCKS FROM SPAWN TO TEST.
 
 ### janWekiSUPER
-Gives you a handful of useful effects if put in offhand/mainhand.
+Gives you a handful of useful effects if put in offhand/mainhand. You become pretty much invulnerable, and only supermobs can deal enough damage to kill you.
 
 ### janWekiFLY
 If you put it in your offhand/mainhand, a platform of scaffolding will constantly be teleported below you. Hold shift to go down, jump to go up. Recommended with janWekiSUPER.
@@ -20,7 +20,7 @@ If put in your offhand, a sheet of evenly spaced TNT will rain down above you. T
 If put in offhand, a strand of TNT will appear at the nearest player that is not you.
 
 ### janWekiWARDEN
-Spawns OP wardens.
+Spawns OP wardens when put in offhand.
 
 ### janWekiZOMBIE
-Spawns OP zombies.
+Spawns OP zombies when put in offhand.
